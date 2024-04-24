@@ -1,10 +1,8 @@
-##########################################################
 # Readme file for MATLAB code for BEE Extended Essay
-# Modified based on [1] to adapt to my own needs. 
-# Added APDAGD algorithm from [2].
-##########################################################
+Modified based on [1] to adapt to my own needs. \\
+Added APDAGD algorithm from [2].
 
-REFERENCES:
+# References
 [1]"Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration"
 -- Jason Altschuler, Jonathan Weed, Philippe Rigollet
 https://github.com/JasonAltschuler/OptimalTransportNIPS17
@@ -14,9 +12,7 @@ Is Better Than by Sinkhorn’s Algorithm"
 -- Pavel Dvurechensky, Alexander Gasnikov, Alexey Kroshnin
 https://github.com/chervud/AGD-vs-Sinkhorn
 
-##########################################################
-
-ALGORITHMS:
+# Algorithms 
 -- compute_ot_lp.m    Compute optimal transport directly using a MATLAB linear program solver.
 -- round_transpoly.m  Implementation of algorithm for rounding to transport polytope. 
 -- frobinnerproduct.m Compute sum of entry-wise products.
@@ -36,7 +32,7 @@ ALGORITHMS:
 
 ##########################################################
 
-PLOTTING SCRIPTS:
+# Plotting Scripts
 -- rowcol_vs.m        Compares Sinkhorn-Knopp, SAG, Greenkhorn, and APDAGD under row/col updates regime.
 -- timegrid_vs.m      Compares Sinkhorn-Knopp, Greenkhorn, and APDAGD under fixed clock time.
 
