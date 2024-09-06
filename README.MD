@@ -1,6 +1,6 @@
 # References
-This repository is modified based on [1] to adapt to my own needs.
-Added APDAGD algorithm from [2].
+This repository contains the codes for my third-year bachelors's extended essay titled "Computational Optimal Transport with Applications in Machine Learning". The essay can be found [here](https://drive.google.com/file/d/17LcqLVZ6ukCQf2IhaII2Aj7JzfpUZmNI/view?usp=sharing).  
+The codes are modified based on [1]. A version of the APDAGD algorithm is added based on the previous work from [2].
 
 [1]"Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration"
 -- Jason Altschuler, Jonathan Weed, Philippe Rigollet
