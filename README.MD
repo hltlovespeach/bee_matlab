@@ -1,5 +1,5 @@
 # References
-This repository contains the codes for my third-year bachelors's extended essay titled "Computational Optimal Transport with Applications in Machine Learning". The essay can be found [here](https://drive.google.com/file/d/17LcqLVZ6ukCQf2IhaII2Aj7JzfpUZmNI/view?usp=sharing).  
+This repository contains the codes for my third-year bachelors's extended essay titled "Computational Optimal Transport with Applications in Machine Learning". The essay can be found [here](https://drive.google.com/file/d/1svdbMCk1v5KFh2Nq7rKMOaOhZ2Wedc6Y/view?usp=sharing).  
 The codes are modified based on [1]. A version of the APDAGD algorithm is added based on the previous work from [2].
 
 [1]"Near-linear time approximation algorithms for optimal transport via Sinkhorn iteration"
